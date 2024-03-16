@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **sdas12101968@gmail.com**
 
