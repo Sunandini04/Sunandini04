@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sunandini Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Python**
 
