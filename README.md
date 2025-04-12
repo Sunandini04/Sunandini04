@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sunandini Das</h1>
 <h3 align="center">Just a passionate code crafter 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Python**
 
